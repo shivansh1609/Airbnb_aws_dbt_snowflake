@@ -85,7 +85,7 @@ The transformed data is further visualized using a Power BI dashboard to derive 
 > The dashboard is maintained in a separate repository.
 
 🔗 **Dashboard Repository:**
-[https://github.com/shivansh1609/<your-dashboard-repo>](https://github.com/shivansh1609/Airbnb_Performance_Dashboard)
+[https://github.com/shivansh1609//Airbnb_Performance_Dashboard)]
 
 ## ⚙️ How to Run the Project
 
