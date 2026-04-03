@@ -1,1 +1,0 @@
-# Airbnb_aws_dbt_snowflake
